@@ -20,6 +20,7 @@ namespace MyFirstProgram
 
             Console.WriteLine("\n");
 
+
             switch (menuChoice)
             {
                 case '1':
